@@ -3,14 +3,15 @@
 Note: These following items are curated for next 5-50 years.
 
 1. The startup motto "Idea is cheap, execution is everything" is obsolete. 
-The more fitting one in AI era is "Execution is becoming commodity, unique good idea is priceless".
+The more fitting one in AI era is "Execution is becoming commodity, unique 
+insight is priceless".
 
 2. Though personalization is a norm, but the next form is individualization
 where everyhing is built just for you, and on your device(s), locally. 
 
 3. Once edge devices are enough powerful and can run intelligence locally,
-Data will never leave the devices, causing the death of AdTech.
-MarTech might shrink significantly up to 95%. 
+More data will never leave the devices, causing the death of AdTech.
+MarTech might shrink significantly. 
 
 4. Moduralization will become the next wave of business transformation after
 the adoption of AI to stay relevant in the era of autonomous businesses.
@@ -65,7 +66,7 @@ focus and is free from distraction. Move intense discussions to morning.
 
 17. No matter how advanced the technologies will be, the nature of human 
 won't be changed. The more you understand about it, the better you can leverage
-the potentials of community and society.
+using powers of communities and societies.
 
 18. The further you can see into the future, the lesser competitions you will
 be facing with. Trying to see the next 5-10 years into the future will give you
@@ -126,7 +127,7 @@ wasting your money, time and other resources.
 (Minimum Viable Product), 3) Register and launch, 4) Build systems to sustain 
 operations, 5) Build culture and scale, 6) Succession or exit.
 
-29. There are 4 big phases of business landscape development. Now we are in 
+29. There are 4 big phases of economic landscape evolution. Now we are in 
 the phase of building more tools, soon the world will focus more on easing the 
 collaborations between people and organization. The third phase is regeneration 
 which is about fixing the world damage. The last phase is either utopia or dystopia, 
@@ -135,8 +136,8 @@ where the results of phases 2 and 3 will determine the exact last phase.
 30. The root causes that shrink the number of available job positions are not 
 about automation, AI, and global recession but the ineffectiveness of generating 
 new solutions for problems. Though there are infinite amount of problems waiting 
-to be solved, the number of people daring to think, explore, and design solutions 
-are so limited. Maybe there are just fewer than 0.1% of all populations.
+to be solved, the number of people daring to think, explore, design and create 
+solutions are so limited. Maybe there are just fewer than 0.1% of all populations.
 
 31. If we can turn all the needs for repairing this world and solving inefficiency
 into job positions, then we will at least have new job positions for 10 billions 
@@ -158,9 +159,31 @@ from begining.
 34. New kind of currency will inevitably emerge if the current system of 
 currencies fail to encourage the fair distribution of resources and influences. 
 The demands may shrink but they never fade. If people run out of money to spend
-for things, ancient and effect method of exchange might be reintroduced.
+for things, ancient methods of exchange might be reintroduced.
 
-35. 
+35. Don't see thing just how it is, try to figure out patterns, systems and 
+machanics inside it to realize how it works and how it creates the values. 
+Curiousity won't happen without proper frames to search for the understanding. 
+
+36. Many things in this world share similar patterns. The level of similarity
+among them is depended on how well you can simpify and design their abstract 
+forms. The more abstract forms you can see off of them, the better you can 
+leverage them into good uses.
+
+37. Climate resilience is increasingly becoming the major security factor for 
+many businesses. The businesses must be able to survive floods, fires, droughts, 
+heat, disease, epandemic, power/internet outages, and more. They will be forced 
+to adopt the concepts of moduralization, integration and unification in many areas.
+
+38. Consultants as agents of business transformation performers is increasingly
+in great demand due to impacts of AI, automation, supply chain relocation, 
+and climate risks mitigation. While big enterprises can take care of themselves, 
+400 millions SMEs (small and medium enterprises) around the world are left in
+the struggles, desperately hoping for consultants to help them.
+
+
+
+
 
 
 

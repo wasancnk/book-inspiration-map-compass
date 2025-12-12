@@ -286,7 +286,7 @@ making your dream a reality. Decorate all your touchpoints with your dream.
 
 54. Luck is not entirely accidental. It can be fablicated and needs some of 
 your effort. Though winning a lottery is like a pure luck but it still requires 
-you to buy the ticket. Luck = well-prepared + be in right place + good timing.
+you to buy the ticket. Luck = well-prepared x be in right place x good timing.
 
 55. All words accumulate their powers and influences if they are used very 
 often through long period. Invent and own a unique word that represents your
@@ -366,7 +366,55 @@ to presurre yourself, just write, no format, no structure, write the keywords
 down first and you will get anchors for where to start on. The rest things will 
 flow in naturally.
 
+68. To lead a change, you can't please and convince everyone to follow you. Be 
+selective and only invite good minds and create supportive environment for them
+so they can speak louder, live better, be prouder, and make bigger successes. 
+Proved success is best penetrative force. Don't waste your precious energy with 
+not right people and let the ACCUMULATED GRAVITY IN YOUR COMMUNITY do the job 
+inviting those people to join you.
 
+69. This world has many actors. Some are good, some are bad. If the system is
+good enough, it always have enough incentives for everyone. Don't play hero
+enforcing ethics onto everyone because it won't work. The only way to make it
+work is turning yourself to be a silent fixer through designing an ecosystem
+encouraging the positive sum outcomes. Though negative outcomes might emerge 
+during the processes, if the final weight on positive side is greater then it 
+absolutely is okay. Ensure leaving some spaces for gradually and proudly repenting.
+
+70. Digital platform is a kind of thing that creates biggest leverage because
+it can reach out to everyone that can access to internet. However, if you want
+to build one and want to stick with most flexible techs that will last for next 
+decades, then the starter and forever set is Java, JavaScript, HTML, CSS, and 
+SQL. Well, SQL is optional, you can skip or choose other kinds of storages 
+fitting to your need. Though Java is arguable for its suitability but it will 
+give you long term cost saving while ensuring maximum flexibility to handle your 
+needs.
+
+71. Searching co-founders of your mission uses a lot of luck. It is not easy
+to find one. And everyone has HONEYMOON period, be aware of behavior change. 
+Very hyped ones might have red flags. Better ones like regular intellectual 
+sparring and have different skill sets. If they just give money and do nothing
+then they don't deserve to be called a co-founder, but investor. An odd number 
+of team members ensure clear decision-making. And if you are founder, leave 
+some buffer in your mind for worst case scenario that you might have to do 
+everything alone again. Things might not go well. Everything is temporary. As 
+long as you don't give up, there is always a chance.
+
+72. Whenever you found a team. Founder agreement contract must be made and have
+it detailed as much as possible. NDA is necessary too. You can create these
+2 contracts without the need for registering a company. Once 2 or more full name,
+citizen IDs, address, date and signatures are on each document, it becomes 
+legally effective. Ensure equity share details are included and founder should 
+have 60% or more from total share and the rest is up to you to design. If anyone
+insist to have more share, then compensate with salary or other kind of benefits.
+Phased equity contribution through vesting schedules is good optional strategy. 
+
+73. It is recommended to hire lawyer to interpret contracts and agreements for 
+first 3-5 deals to give you better sense on detecting hidden agendas and 
+reading the power dynamic. Once you are confident in your skill, then lawyer
+is optional but serious deals should have lawyer checking the contracts. Though 
+it might be a bit expensive but it will save you from loss that might be 1000 
+times more expensive than the lawyer cost.
 
 
 

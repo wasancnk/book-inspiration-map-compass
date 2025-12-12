@@ -6,8 +6,9 @@ Note: These following items are curated for next 5-50 years.
 The more fitting one in AI era is "Execution is becoming commodity, unique 
 insight is priceless".
 
-2. Though personalization is a norm, but the next form is individualization
-where everyhing is built just for you, and on your device, locally. 
+2. Though personalization is a norm, everything is prepared from the server 
+side but the next form is individualization where everyhing is built just for 
+you, and on your device, locally. 
 
 3. Once edge devices are enough powerful and can run intelligence locally,
 More data will never leave the devices, causing the death of AdTech.
@@ -194,12 +195,13 @@ accepted for job positions if you approach them with clarity that you are hoping
 to help them boost or transforming their businesses using AI and automation. 
 
 41. Recruitment platforms are failing to speak the hidden needs beneath the 
-job positions. It is more effective to directly send your resumes and letters of 
-willingness to their company email addresses. Study their businesses, search 
-their recent initiatives and ambitions, then explain your background knowledges 
-and specific products or services that catch your interest and HOW YOU CAN HELP
-THEM OUT IN 90 DAYS. Show your systematic thinking skill as it is most important
-quality they are desperately searching for.
+job positions. It is more effective to directly send your resumes via official
+channels first then follow with email expressing your willingness to help their 
+company. Study their businesses. Search their recent initiatives and ambitions, 
+then explain in the email about background knowledges and specific products or 
+services that catch your interest and HOW YOU CAN HELP THEM OUT IN 90 DAYS. 
+Show your systematic thinking skill as it is most important quality they are 
+desperately searching for.
 
 42. Your first salary is a lot cheaper than the paid license (salary) to learn 
 things and do real-world experiments. Low salary is okay, just ensure it is 
@@ -348,11 +350,27 @@ to win the debate is how far you uplift the value of entire conversion. It is
 "Oh so you win.. but I win too because now I know more useful things".
 
 65. Micro-enterprises is theoretically perfect organization structure because it
-combines best benefits of both worlds: startup (high agility) and corporate 
-(scale and resources to create high impact). However, without unified and 
-real-time flexible central digital platform that controls critical areas of 
-managements like cross-team collaboration, knowledge sharing, and resource 
-allocation then this ambitious structure is mostly impossible.
+combines best benefits of both worlds: startup (agility) and corporate (scale). 
+However, without unified and real-time flexible central digital platform that 
+controls critical areas of managements like cross-team collaboration, knowledge 
+sharing, and resource allocation then this ambitious structure is mostly impossible.
+
+66. If automations are applied at the extreme level. Many businesses will shrink 
+a lot and one-person businesses will be common, driving most human-driven economies 
+on Earth (and Mars + future planets). They act as artists and agents delivering 
+hyper personalized products and services. 
+
+67. Hand-eyes coordination stimulates the brain to process information more
+effective. Writing on paper makes thinking about things easier. You don't have
+to presurre yourself, just write, no format, no structure, write the keywords
+down first and you will get anchors for where to start on. The rest things will 
+flow in naturally.
+
+
+
+
+
+
 
 
 
